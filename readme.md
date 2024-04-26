@@ -28,7 +28,7 @@ Our app may contain links to external websites or resources for additional infor
 
 ## Children's Privacy
 
-Our app is not directed at children under the age of 13, and we do not knowingly collect any personal information from children. If you believe that we may have inadvertently collected information from a child, please contact us immediately.
+Our app is not directed at children under the age of 18, and we do not knowingly collect any personal information from children. If you believe that we may have inadvertently collected information from a child, please contact us immediately.
 
 ## Changes to Privacy Policy
 
