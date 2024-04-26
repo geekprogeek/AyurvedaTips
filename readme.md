@@ -36,6 +36,6 @@ We reserve the right to update or modify this Privacy Policy at any time. Any ch
 
 ## Contact Us
 
-If you have any questions or concerns regarding our Privacy Policy or the practices of this app, please contact us at [geekprogeek@email.com](mailto:geekprogeek@email.com).
+If you have any questions or concerns regarding our Privacy Policy or the practices of this app, please contact us at [Geek Pro Help](mailto:geekprogeek@gmail.com)
 
 By using Ayurveda Tips, you agree to the terms outlined in this Privacy Policy.
